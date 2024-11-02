@@ -2,7 +2,7 @@
     "name": "chrisdicarlo/cpx-pail",
     "description": "Easily run Laravel Pail using CPX",
     "require": {
-        "php": "^8.2",
+        "php": "^8.2"
     },
     "bin": [
         "bin/pail"
